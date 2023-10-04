@@ -1,2 +1,4 @@
-package com.example.onehourproject.member.repository;public class MemberRepositoryTest {
+package com.example.onehourproject.member.repository;
+
+public class MemberRepositoryTest {
 }

@@ -1,4 +1,4 @@
-package com.example.onehourproject.user.repository.entity;
+package com.example.onehourproject.Member.repository.entity;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
